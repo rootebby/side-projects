@@ -1,0 +1,10 @@
+ÖDEVLER : 
+coded by root@ebby:~#
+1. EŞİTSİZLİKLER 50 - SORU BANK - 20
+2. DİNAMİK - 60
+3. MANYETİK ALAN 30
+4. CANLILAR 50
+5. İTME - MOMENTUM 100
+
+
+__main__
