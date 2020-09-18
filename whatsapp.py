@@ -15,7 +15,7 @@ try:
                         \____/                  |___/
     This is the tale of a ghost
     I have been dead since the day
-    I came out of the womb
+    I came out of the w*mb
 
     Slittin' the right hand couldn't sleep just like
     Humans I thought as I sat in the dark of my room
@@ -104,6 +104,11 @@ try:
                             
                             msg_box = browser.find_element_by_xpath('//*[@id="main"]/footer/div[1]/div[2]/div/div[2]')
                             msg_box.send_keys(note)
+
+                    buton = browser.find_element_by_xpath('//*[@id="main"]/footer/div[1]/div[3]/button')        
+                    buton.click()
+
+
             else:
                 pass
             
